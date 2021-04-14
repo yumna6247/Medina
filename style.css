@@ -1,0 +1,360 @@
+@charset "utf-8";
+/* CSS Document */
+
+header {
+    background-image: url(img/header.jpg);
+    background-repeat: repeat-x;
+    height: 300px;
+    width: 1700px;
+}
+
+.btn-secondary {
+    top: 199px;
+    left: 621px;
+}
+main h4 {
+    font-family: 'Myriad Arabic';
+    color: #008891;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 33px;
+    padding-left: 274px;
+    padding-right: 50px;
+    position: relative;
+    top: 8px;
+}
+main p {
+    font-family: 'Myriad Arabic';
+    color: #000000;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: center;
+    padding-right: 84px;
+    padding-left: 323px;
+    position: relative;
+    top: 10px;
+    left: -20px;
+}
+.nav {
+    background-color: rgba(255,255,255,1.00);
+    height: 500px;
+}
+
+main {
+    width: 2095px;
+    height: 217px;
+    background-color: #e7e7de;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 11px;
+    float: right;
+}
+.mosque  {
+    width: 322px;
+    background-color: rgba(255,255,255,1.00);
+    padding-top: 43px;
+    margin-top: 79px;
+    margin-left: 1250px;
+}
+
+.mosque img {
+    width: 123px;
+    height: 148px;
+    text-align: center;
+    bottom: 119px;
+}
+
+.mosque p {
+    width: 215px;
+    height: 77px;
+    font-family: 'Myriad Arabic';
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: center;
+    padding-left: 16px;
+    margin-left: 97px;
+    position: relative;
+    left: -14px;
+}
+.mosque .btn.btn-info {
+    width: 140px;
+    height: 37px;
+    background-color: #008891;
+    font-size: medium;
+    text-align: center;
+    color: rgba(255,255,255,1.00);
+    border-style: groove;
+    border-radius: 19px;
+    position: relative;
+    top: 20px;
+    left: -7px;
+}
+.nav .mosque a {
+    color: rgba(255,255,255,1.00);
+    font-size: large;
+    padding-top: 25px;
+}
+
+.destination {
+    width: 322px;
+    background-color: rgba(255,255,255,1.00);
+    margin-top: -287px;
+    margin-left: 731px;
+}
+.destination img {
+    width: 158px;
+    height: 158px;
+    position: relative;
+    top: -20px;
+}
+.destination p {
+    font-size: 20px;
+    text-align: center;
+    padding-left: 75px;
+    line-height: 31px;
+    position: relative;
+    top: -9px;
+}
+.destination .btn.btn-info {
+    width: 140px;
+    height: 37px;
+    background-color: #008891;
+    font-size: medium;
+    text-align: center;
+    color: rgba(255,255,255,1.00);
+    border-style: groove;
+    border-radius: 19px;
+}
+.destination a {
+    color: rgba(255,255,255,1.00);
+    font-size: large;
+    padding-top: 14px;
+}
+footer p {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: small;
+    margin-top: -27px;
+}
+footer {
+    height: 31px;
+    background-color: #000033;
+    position: relative;
+    padding-top: 31px;
+    margin-top: 725px;
+}
+
+body {
+    background-color: rgba(255,255,255,1.00);
+    width: 1700px;
+    height: 900px;
+}
+
+.b4 {
+    background-color: #306276;
+    width: 146px;
+    border-radius: 13px;
+    height: 27px;
+    position: relative;
+    top: 208px;
+    left: 888px;
+}
+header a {
+    color: #FFFFFF;
+    position: relative;
+    padding-left: 35px;
+    top: 181px;
+    left: 563px;
+    text-decoration: none;
+}
+header h1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: xx-large;
+    position: relative;
+    top: 175px;
+    left: -31px;
+}
+
+
+@media (max-height:1024px) and (max-width:1366px){
+header {
+    background-image: url(img/header.jpg);
+    background-repeat: repeat-x;
+    height: 300px;
+    width: 1366px;
+}
+	.btn-secondary {
+    top: 199px;
+    left: 621px;
+}
+main h4 {
+    font-family: 'Myriad Arabic';
+    color: #008891;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 33px;
+    padding-left: 274px;
+    padding-right: 50px;
+    position: relative;
+    top: 8px;
+}
+main p {
+    font-family: 'Myriad Arabic';
+    color: #000000;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: center;
+    padding-right: 84px;
+    padding-left: 323px;
+    position: relative;
+    top: 10px;
+    left: -20px;
+}
+.nav {
+    background-color: rgba(255,255,255,1.00);
+    height: 500px;
+}
+
+main {
+    width: 2095px;
+    height: 217px;
+    background-color: #e7e7de;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 11px;
+    float: right;
+}
+.mosque  {
+    width: 322px;
+    background-color: rgba(255,255,255,1.00);
+    padding-top: 43px;
+    margin-top: 79px;
+    margin-left: 1250px;
+}
+
+.mosque img {
+    width: 123px;
+    height: 148px;
+    text-align: center;
+    bottom: 119px;
+}
+
+.mosque p {
+    width: 215px;
+    height: 77px;
+    font-family: 'Myriad Arabic';
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: center;
+    padding-left: 16px;
+    margin-left: 97px;
+    position: relative;
+    left: -14px;
+}
+.mosque .btn.btn-info {
+    width: 140px;
+    height: 37px;
+    background-color: #008891;
+    font-size: medium;
+    text-align: center;
+    color: rgba(255,255,255,1.00);
+    border-style: groove;
+    border-radius: 19px;
+    position: relative;
+    top: 20px;
+    left: -7px;
+}
+.nav .mosque a {
+    color: rgba(255,255,255,1.00);
+    font-size: large;
+    padding-top: 25px;
+}
+
+.destination {
+    width: 322px;
+    background-color: rgba(255,255,255,1.00);
+    margin-top: -287px;
+    margin-left: 731px;
+}
+.destination img {
+    width: 158px;
+    height: 158px;
+    position: relative;
+    top: -20px;
+}
+.destination p {
+    font-size: 20px;
+    text-align: center;
+    padding-left: 75px;
+    line-height: 31px;
+    position: relative;
+    top: -9px;
+}
+.destination .btn.btn-info {
+    width: 140px;
+    height: 37px;
+    background-color: #008891;
+    font-size: medium;
+    text-align: center;
+    color: rgba(255,255,255,1.00);
+    border-style: groove;
+    border-radius: 19px;
+}
+.destination a {
+    color: rgba(255,255,255,1.00);
+    font-size: large;
+    padding-top: 14px;
+}
+footer p {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: small;
+    margin-top: -27px;
+}
+footer {
+    height: 31px;
+    background-color: #000033;
+    position: relative;
+    padding-top: 31px;
+    margin-top: 725px;
+}
+
+body {
+    background-color: rgba(255,255,255,1.00);
+    width: 1700px;
+    height: 900px;
+}
+
+.b4 {
+    background-color: #306276;
+    width: 146px;
+    border-radius: 13px;
+    height: 27px;
+    position: relative;
+    top: 208px;
+    left: 888px;
+}
+header a {
+    color: #FFFFFF;
+    position: relative;
+    padding-left: 35px;
+    top: 181px;
+    left: 563px;
+    text-decoration: none;
+}
+header h1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: xx-large;
+    position: relative;
+    top: 175px;
+    left: -31px;
+}
+}
